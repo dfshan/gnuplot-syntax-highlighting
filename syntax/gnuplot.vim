@@ -499,6 +499,9 @@ syn keyword gnuplotStatement	refresh replot rep reread reset save set show
 syn keyword gnuplotStatement	shell splot spstats system test undefine unset
 syn keyword gnuplotStatement	update
 
+" New in 5.0 "
+syn keyword gnuplotKeyword	dashtype
+
 " ---- Define the default highlighting ---- "
 " For version 5.7 and earlier: only when not done already
 " For version 5.8 and later: only when an item doesn't have highlighting yet
